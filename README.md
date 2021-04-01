@@ -3,8 +3,7 @@
 [![instagram](https://img.shields.io/badge/manuelfjr-black?&logo=instagram)](https://www.instagram.com/manuelferreirajr/)
 <!--
 [![Instagram](https://img.shields.io/badge/python-v3.8.5-orange?&logo=python)](https://pypi.python.org/pypi/ansicolortags/)
-<--
-
+-->
 ### Hi there 👋
 <!--
 **Manuelfjr/Manuelfjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,9 +42,19 @@ Code to monitor coronavirus worldwide, especially in Brazil. Interactive and eas
 - System Developer in the CICC-PB Integration Project (AI + Data Science) - **working**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark)
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manuelfjr)](https://github.com/Manuelfjr/github-readme-stats)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&show_icons=true&theme=dark)](https://github.com/Manuelfjr/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/Manuelfjr/count.svg)
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&show_icons=true&theme=dark)](https://github.com/Manuelfjr/github-readme-stats" />
+</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Manuelfjr/count.svg" />
+</p>
+-->
