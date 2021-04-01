@@ -1,3 +1,10 @@
+[![linkedin](https://img.shields.io/badge/manuelfjr-black?&logo=linkedin)]( www.linkedin.com/in/manuefjr)
+[![github](https://img.shields.io/badge/manuelfjr-black?&logo=github)](https://github.com/Manuelfjr)
+[![instagram](https://img.shields.io/badge/manuelfjr-black?&logo=instagram)](https://www.instagram.com/manuelferreirajr/)
+<!--
+[![Instagram](https://img.shields.io/badge/python-v3.8.5-orange?&logo=python)](https://pypi.python.org/pypi/ansicolortags/)
+<--
+
 ### Hi there 👋
 <!--
 **Manuelfjr/Manuelfjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,11 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About me
+# ⚡ About me
 
 I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m studying the fifth period of the statistics course, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
-# Works
+# ⚡ Works
 
 - [Mentoring program of the vital statistics discipline by the UFPB statistics department](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1895) - **completed**
 
@@ -34,3 +41,11 @@ Code to monitor coronavirus worldwide, especially in Brazil. Interactive and eas
 - Design and Implementation of IRT models for Clustering Evaluation - **working**
 
 - System Developer in the CICC-PB Integration Project (AI + Data Science) - **working**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark)
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manuelfjr)](https://github.com/Manuelfjr/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&show_icons=true&theme=dark)](https://github.com/Manuelfjr/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/Manuelfjr/count.svg)
