@@ -1,6 +1,8 @@
 [![linkedin](https://img.shields.io/badge/manuelfjr-black?&logo=linkedin)]( www.linkedin.com/in/manuefjr)
 [![github](https://img.shields.io/badge/manuelfjr-black?&logo=github)](https://github.com/Manuelfjr)
 [![instagram](https://img.shields.io/badge/manuelfjr-black?&logo=instagram)](https://www.instagram.com/manuelferreirajr/)
+![githubbadge](https://img.shields.io/github/followers/manuelfjr?style=social)
+![](https://komarev.com/ghpvc/?username=manuelfjr&color=brightgreen&style=flat)
 <!--
 [![Instagram](https://img.shields.io/badge/python-v3.8.5-orange?&logo=python)](https://pypi.python.org/pypi/ansicolortags/)
 -->
