@@ -43,11 +43,13 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 - System Developer in the CICC-PB Integration Project (AI + Data Science) - **completed**
 
-- Data Scientist Intern at Apps de Bolso
+- [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of $\beta^{3}$ -IRT using gradient descent - **completed**
+
+- Data Scientist Intern at Apps de Bolso - **working**
 
   - Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations.
 
-- Data Scientist Intern at Sem Processo
+- Data Scientist Intern at Sem Processo - **working**
   - Develop predictive ML models and perform statistical analysis and studies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark)
