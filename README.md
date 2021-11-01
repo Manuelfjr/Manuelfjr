@@ -33,15 +33,22 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 - [A database to fit item response theory models](https://responsedb.github.io/) - **completed**
 
-The item response theory aims to estimate the skills of its respondents, based on tests composed of questions of different levels of difficulty. There are several models of item response theory, which have been proposed for various types of problems, such as binary or probabilistic responses and even applications in the machine learning area. In order to evaluate certain models, it is necessary to obtain sets of answers, which is usually very expensive. This project aimed to create a response database to train item response theory models, the creation of a web page to facilitate access to data and software, which allows for easy manipulation of downloaded data.
+  - The item response theory aims to estimate the skills of its respondents, based on tests composed of questions of different levels of difficulty. There are several models of item response theory, which have been proposed for various types of problems, such as binary or probabilistic responses and even applications in the machine learning area. In order to evaluate certain models, it is necessary to obtain sets of answers, which is usually very expensive. This project aimed to create a response database to train item response theory models, the creation of a web page to facilitate access to data and software, which allows for easy manipulation of downloaded data.
 
 - Monitoring of the corona virus - **completed**
 
-Code to monitor coronavirus worldwide, especially in Brazil. Interactive and easy-to-use maps to visualize the growth of the corona virus worldwide, for the number of contaminated, killed and recovered (all forms of use described in the repository readme).
+  - Code to monitor coronavirus worldwide, especially in Brazil. Interactive and easy-to-use maps to visualize the growth of the corona virus worldwide, for the number of contaminated, killed and recovered (all forms of use described in the repository readme).
 
-- Design and Implementation of IRT models for Clustering Evaluation - **working**
+- Design and Implementation of IRT models for Clustering Evaluation - **completed**
 
-- System Developer in the CICC-PB Integration Project (AI + Data Science) - **working**
+- System Developer in the CICC-PB Integration Project (AI + Data Science) - **completed**
+
+- Data Scientist Intern at Apps de Bolso
+
+  - Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations.
+
+- Data Scientist Intern at Sem Processo
+  - Develop predictive ML models and perform statistical analysis and studies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark)
 
