@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 # ⚡ About me
 
-I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m studying the fifth period of the statistics course, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
+I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 82% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
 # ⚡ Works
 
@@ -52,11 +52,35 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 - Data Scientist Intern at Sem Processo - **working**
   - Develop predictive ML models and perform statistical analysis and studies.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark)
+ <div>
+  <a href="https://github.com/Manuelfjr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&show_icons=true&theme=dark)](https://github.com/Manuelfjr/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+</div>
+
+
+![asd](https://raw.githubusercontent.com/hugo451/hugo451/output/github-contribution-grid-snake.svg)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Manuelfjr/count.svg)
+
+
+<div> 
+  
+  <a href="https://www.instagram.com/manuelferreirajr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ferreira.jr.ufpb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/manuefjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 
 <!--
 <p align="center">
