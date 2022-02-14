@@ -27,7 +27,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
 
 # ⚡ Repositories and Projects
 
-**BIRTGD**:BIRTGD: A new implementation <img src="https://render.githubusercontent.com/render/math?math=\beta^{3}">-IRT using gradient descent </br>
+**BIRTGD**:BIRTGD: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)
 
 # ⚡ Works
@@ -48,7 +48,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 - System Developer in the CICC-PB Integration Project (AI + Data Science) - **completed**
 
-- [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of <img src="https://render.githubusercontent.com/render/math?math=\beta^{3}"> -IRT using gradient descent - **completed**
+- [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of &beta;<sup>3</sup> -IRT using gradient descent - **completed**
 
 - Data Scientist Intern at Apps de Bolso - **working**
 
