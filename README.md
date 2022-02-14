@@ -27,7 +27,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
 
 # ⚡ Repositories and Projects
 
-**BIRTGD**:BIRTGD: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
+**BIRTGD**: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)
 
 # ⚡ Works
