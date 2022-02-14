@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 
 I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 82% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
+# ⚡ Repositories and Projects
+
+**BIRTGD**:BIRTGD: A new implementation <img src="https://render.githubusercontent.com/render/math?math=\beta^{3}">-IRT using gradient descent </br>
+![PyPI - Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)
+
 # ⚡ Works
 
 - [Mentoring program of the vital statistics discipline by the UFPB statistics department](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1895) - **completed**
@@ -43,7 +48,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 - System Developer in the CICC-PB Integration Project (AI + Data Science) - **completed**
 
-- [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of $\beta^{3}$ -IRT using gradient descent - **completed**
+- [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of <img src="https://render.githubusercontent.com/render/math?math=\beta^{3}"> -IRT using gradient descent - **completed**
 
 - Data Scientist Intern at Apps de Bolso - **working**
 
@@ -52,7 +57,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 - Data Scientist Intern at Sem Processo - **working**
   - Develop predictive ML models and perform statistical analysis and studies.
 
- <div>
+<div>
   <a href="https://github.com/Manuelfjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&langs_count=7&theme=dark"/>
@@ -67,12 +72,25 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 </div>
 
-
 ![asd](https://raw.githubusercontent.com/hugo451/hugo451/output/github-contribution-grid-snake.svg)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Manuelfjr/count.svg)
 
+### Programming Languages and Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%23013243.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![tensor-flow](https://img.shields.io/badge/tensorflow-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Connect with me
 
 <div> 
   
@@ -81,6 +99,14 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
   <a href="https://www.linkedin.com/in/manuefjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+### Education
+
+[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://manuelfjr.github.io)
+</br>
+
+[<img align="left" alt="Education" src="https://img.shields.io/badge/UF%20da%20Paraíba-B.S.%20Statistic-%23563D7C?style=for-the-badge" />](http://www.uwyo.edu/physics/)
+</br>
 
 <!--
 <p align="center">
