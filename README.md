@@ -1,4 +1,4 @@
-[![linkedin](https://img.shields.io/badge/manuelfjr-black?&logo=linkedin)](www.linkedin.com/in/manuefjr)
+[![linkedin](https://img.shields.io/badge/manuelfjr-black?&logo=linkedin)](https://www.linkedin.com/in/manuefjr)
 [![github](https://img.shields.io/badge/manuelfjr-black?&logo=github)](https://github.com/Manuelfjr)
 [![instagram](https://img.shields.io/badge/manuelfjr-black?&logo=instagram)](https://www.instagram.com/manuelferreirajr/)
 ![githubbadge](https://img.shields.io/github/followers/manuelfjr?style=social)
