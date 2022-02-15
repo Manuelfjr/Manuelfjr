@@ -2,6 +2,7 @@
 [![github](https://img.shields.io/badge/manuelfjr-black?&logo=github)](https://github.com/Manuelfjr)
 [![instagram](https://img.shields.io/badge/manuelfjr-black?&logo=instagram)](https://www.instagram.com/manuelferreirajr/)
 ![githubbadge](https://img.shields.io/github/followers/manuelfjr?style=social)
+
 ![](https://komarev.com/ghpvc/?username=manuelfjr&color=brightgreen&style=flat)
 <!--
 [![Instagram](https://img.shields.io/badge/python-v3.8.5-orange?&logo=python)](https://pypi.python.org/pypi/ansicolortags/)
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # ⚡ About me
 
 I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 82% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
@@ -29,6 +31,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
 
 **BIRTGD**: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)
+![https://badgen.net/pypi/v/birt-gd](https://badgen.net/pypi/v/birt-gd)
 
 # ⚡ Works
 
@@ -63,13 +66,14 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<div>
+  <a href="https://github.com/Manuelfjr">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manuelfjr&theme=nord_dark"/>
+</div>
 
+<div>
+  <a href="https://github.com/Manuelfjr">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Manuelfjr"/>
 </div>
 
 ![asd](https://raw.githubusercontent.com/hugo451/hugo451/output/github-contribution-grid-snake.svg)
