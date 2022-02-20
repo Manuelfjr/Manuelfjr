@@ -106,7 +106,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 ### Education
 
-[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://manuelfjr.github.io)
+[<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://drive.google.com/file/d/1HefoiufG1R-wok0TtwSCqNPURWhW7zh8/view?usp=sharing)
 </br>
 
 [<img align="left" alt="Education" src="https://img.shields.io/badge/UF%20da%20Paraíba-B.S.%20Statistic-%23563D7C?style=for-the-badge" />](http://www.uwyo.edu/physics/)
