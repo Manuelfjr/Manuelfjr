@@ -8,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/python-v3.8.5-orange?&logo=python)](https://pypi.python.org/pypi/ansicolortags/)
 -->
 ### Hi there 👋
+
+ [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://www.buymeacoffee.com/manuelfjr)
 <!--
 **Manuelfjr/Manuelfjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,16 +39,19 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
 # ⚡ Works
 
 - [Mentoring program of the vital statistics discipline by the UFPB statistics department](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1895) - **completed**
-
+<!--
 Tutoring of the disciplines of the vital statistics and biostatistics disciplines for courses in the health area and for [the Graduate Program in Decision Models and Health (PPGMDS)](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1895).
+-->
 
 - [A database to fit item response theory models](https://responsedb.github.io/) - **completed**
 
+<!--
   - The item response theory aims to estimate the skills of its respondents, based on tests composed of questions of different levels of difficulty. There are several models of item response theory, which have been proposed for various types of problems, such as binary or probabilistic responses and even applications in the machine learning area. In order to evaluate certain models, it is necessary to obtain sets of answers, which is usually very expensive. This project aimed to create a response database to train item response theory models, the creation of a web page to facilitate access to data and software, which allows for easy manipulation of downloaded data.
-
+-->
 - Monitoring of the corona virus - **completed**
-
+<!--
   - Code to monitor coronavirus worldwide, especially in Brazil. Interactive and easy-to-use maps to visualize the growth of the corona virus worldwide, for the number of contaminated, killed and recovered (all forms of use described in the repository readme).
+-->
 
 - Design and Implementation of IRT models for Clustering Evaluation - **completed**
 
@@ -55,12 +60,14 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 - [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of &beta;<sup>3</sup> -IRT using gradient descent - **completed**
 
 - Data Scientist Intern at Apps de Bolso - **working**
-
+<!--
   - Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations.
-
+-->
 - Data Scientist Intern at Sem Processo - **working**
+<!--
   - Develop predictive ML models and perform statistical analysis and studies.
-
+-->
+<div align='center'>
 <div>
   <a href="https://github.com/Manuelfjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -73,10 +80,12 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=manuelfjr&theme=nord"/>
 </div>
 
+<!--
 <div>
   <a href="https://github.com/Manuelfjr">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Manuelfjr"/>
 </div>
+-->
 
 ![asd](https://raw.githubusercontent.com/hugo451/hugo451/output/github-contribution-grid-snake.svg)
 
@@ -99,20 +108,27 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 ### Connect with me
 
 <div> 
-  
   <a href="https://www.instagram.com/manuelferreirajr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ferreira.jr.ufpb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manuefjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 
 ### Education
 
+<div>
+  <a href="https://drive.google.com/file/d/1HefoiufG1R-wok0TtwSCqNPURWhW7zh8/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" target="_blank"></a>
+
+  <a href="https://www.ufpb.br/" target="_blank"><img src="https://img.shields.io/badge/UF%20da%20Paraíba-B.S.%20Statistic-%23563D7C?style=for-the-badge" target="_blank"></a>
+</div>
+<!--
 [<img align="left" alt="Education" src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" />](https://drive.google.com/file/d/1HefoiufG1R-wok0TtwSCqNPURWhW7zh8/view?usp=sharing)
 </br>
-
+-->
+<!--
 [<img align="left" alt="Education" src="https://img.shields.io/badge/UF%20da%20Paraíba-B.S.%20Statistic-%23563D7C?style=for-the-badge" />](https://www.ufpb.br/)
 </br>
+-->
+</div>
 
 <!--
 <p align="center">
