@@ -31,6 +31,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
 
 **BIRTGD**: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)
+[![PyPI - Downloads](https://img.shields.io/pypi/dw/birt-gd?style=flat-square&color=darkgreen)](https://pypi.org/project/birt-gd/)
 ![https://badgen.net/pypi/v/birt-gd](https://badgen.net/pypi/v/birt-gd)
 
 # ⚡ Works
@@ -69,6 +70,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 <div>
   <a href="https://github.com/Manuelfjr">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manuelfjr&theme=nord_dark"/>
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=manuelfjr&theme=nord"/>
 </div>
 
 <div>
