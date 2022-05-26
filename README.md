@@ -88,7 +88,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 </div>
 -->
 
-![asd](https://raw.githubusercontent.com/hugo451/hugo451/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Manuelfjr/Manuelfjr/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Manuelfjr/count.svg)
