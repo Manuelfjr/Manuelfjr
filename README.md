@@ -30,14 +30,17 @@ Here are some ideas to get you started:
 
 I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 82% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
-# ⚡ Repositories and Projects
+<details>
+  <summary>:zap: Repositories and Projects</summary>
 
 **BIRTGD**: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)
 [![PyPI - Downloads](https://img.shields.io/pypi/dw/birt-gd?style=flat-square&color=darkgreen)](https://pypi.org/project/birt-gd/)
 ![https://badgen.net/pypi/v/birt-gd](https://badgen.net/pypi/v/birt-gd)
+</details>
 
-# ⚡ Works
+<details>
+  <summary>:zap: Works</summary>
 
 - [Mentoring program of the vital statistics discipline by the UFPB statistics department](https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?id=1895) - **completed**
 <!--
@@ -69,6 +72,8 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
   - Develop predictive ML models and perform statistical analysis and studies.
 -->
 - Jr. Data Scientist at Sem Processo - **working**
+ 
+</details>
 <div align='center'>
 <div>
   <a href="https://github.com/Manuelfjr">
