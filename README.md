@@ -60,14 +60,15 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 - [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of &beta;<sup>3</sup> -IRT using gradient descent - **completed**
 
-- Data Scientist Intern at Apps de Bolso - **working**
+- Data Scientist Intern at Apps de Bolso - **completed**
 <!--
   - Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations.
 -->
-- Data Scientist Intern at Sem Processo - **working**
+- Data Scientist Intern at Sem Processo - **completed**
 <!--
   - Develop predictive ML models and perform statistical analysis and studies.
 -->
+- Jr. Data Scientist at Sem Processo - **working**
 <div align='center'>
 <div>
   <a href="https://github.com/Manuelfjr">
