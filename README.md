@@ -3,14 +3,14 @@
 [![instagram](https://img.shields.io/badge/manuelfjr-black?&logo=instagram)](https://www.instagram.com/manuelferreirajr/)
 ![githubbadge](https://img.shields.io/github/followers/manuelfjr?style=social)
 
-![](https://komarev.com/ghpvc/?username=manuelfjr&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=manuelfjr&color=33CEFF&style=flat)
 
 <!--
 [![Instagram](https://img.shields.io/badge/python-v3.8.5-orange?&logo=python)](https://pypi.python.org/pypi/ansicolortags/)
 -->
 ### Hi there 👋
 
- [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://www.buymeacoffee.com/manuelfjr)
+ [![](https://img.shields.io/badge/Buy_Me_A_Coffee-33CEFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://www.buymeacoffee.com/manuelfjr)
 <!--
 **Manuelfjr/Manuelfjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
