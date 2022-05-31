@@ -123,7 +123,7 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 ### Education
 
 <div>
-  <a href="https://drive.google.com/file/d/1HefoiufG1R-wok0TtwSCqNPURWhW7zh8/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/14RPpHSThL4Q_dIadd3YWBUXElXmYF6tz/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-darkgreen?style=for-the-badge" target="_blank"></a>
 
   <a href="https://www.ufpb.br/" target="_blank"><img src="https://img.shields.io/badge/UF%20da%20Paraíba-B.S.%20Statistic-%23563D7C?style=for-the-badge" target="_blank"></a>
 </div>
