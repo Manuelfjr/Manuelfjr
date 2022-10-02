@@ -34,7 +34,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   <summary>:zap: Jobs</summary>
   
   <details>
-  <summary>:zap: Data Scientist Intern at <a href="https://web.oabdebolso.com/"><b>Apps de Bolso</b></a>  <b>completed</b></summary>
+  <summary>:zawhite_check_markp: Data Scientist Intern at <a href="https://web.oabdebolso.com/"><b>Apps de Bolso</b></a>  <b>completed</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfGZBSpeY4OQ/company-logo_200_200/0/1569606088843?e=1672876800&v=beta&t=oIb3M0l--BHagxJc2AIGl1mTSrkZ_gcWr5VxMBauSlU" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | Updating Sofia, a Deep Learning based recommender <br> system that assists Law Students to pass on <br> the OAB examination (Brazilian Bar examination), <br> the engine recommends questions to the users <br> according to their performance on <br> the application’s simulations. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   </details>
 
 <details>
-  <summary>:zap: Data Scientist Intern at <a href="https://www.semprocesso.com.br"><b>Sem Processo</b></a> - <b>completed</b></summary>
+  <summary>:white_check_mark: Data Scientist Intern at <a href="https://www.semprocesso.com.br"><b>Sem Processo</b></a> - <b>completed</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF2kkAhB6331A/company-logo_200_200/0/1650258122968?e=1672876800&v=beta&t=fY3GzKGuqqwnt1QRaojiSOcrBPrNFmAJY1LsJ4KnJGQ" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | Develop predictive ML models and perform statistical analysis and studies. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   </details>
 
 <details>
-  <summary>:zap: Jr. Data Scientist at <a href="https://www.semprocesso.com.br"><b>Sem Processo</b></a> - <b>working</b></summary>
+  <summary>:white_check_mark: Jr. Data Scientist at <a href="https://www.semprocesso.com.br"><b>Sem Processo</b></a> - <b>working</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF2kkAhB6331A/company-logo_200_200/0/1650258122968?e=1672876800&v=beta&t=fY3GzKGuqqwnt1QRaojiSOcrBPrNFmAJY1LsJ4KnJGQ" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | :fast_forward: Development of models for probability of <br> loss and risk based on survival analysis. <br> :fast_forward: Development and implementation of <br> regression/classification/NLP models. <br> :fast_forward: Monitoring and enhancing the Spectter platform. <br>:fast_forward: Creation of dashboards to monitor metrics. <br>:fast_forward: Development of an updatable <br> retro forecasting model. <br>:fast_forward: Develop predictive ML models <br> and perform statistical analysis <br> and studies.<br> :fast_forward: <b>Skills:<b><br> Python · Flask · Project management <br>Data Modeling · Dashboards · Predictive Modeling <br> Statistic Modeling · Mathematic Modeling |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,7 +58,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   </details>
 
 <details>
-  <summary>:zap: Machine Learning Engineer | Data Scientist | Statistic at <a href="https://www.kunumi.com/"><b>Kunumi</b></a> - <b>working</b></summary>
+  <summary>:white_check_mark: Machine Learning Engineer | Data Scientist | Statistic at <a href="https://www.kunumi.com/"><b>Kunumi</b></a> - <b>working</b></summary>
 
 | <img src="https://www.kunumi.com/storage/2022/01/logo-reframe-white2.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | :fast_forward: Development of predict <br>  models  based in ML methods and   AI<br>  using <b>Python</b> and other languages. <br>:fast_forward: <b>Skills:</b> <br> Python · R · Git <br> SQL · Azure · Predictive Modeling <br> Statistic Modeling · Mathematic Modeling <br> AI ·  ML| 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
