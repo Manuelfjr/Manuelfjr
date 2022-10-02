@@ -31,6 +31,29 @@ Here are some ideas to get you started:
 I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 82% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
 <details>
+  <summary>:zap: Jobs</summary>
+  
+| <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfGZBSpeY4OQ/company-logo_200_200/0/1569606088843?e=1672876800&v=beta&t=oIb3M0l--BHagxJc2AIGl1mTSrkZ_gcWr5VxMBauSlU" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+  - Data Scientist Intern at Apps de Bolso - **completed**
+      - <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfGZBSpeY4OQ/company-logo_200_200/0/1569606088843?e=1672876800&v=beta&t=oIb3M0l--BHagxJc2AIGl1mTSrkZ_gcWr5VxMBauSlU" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
+      
+<!--
+  - Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations.
+-->
+- Data Scientist Intern at Sem Processo - **completed**
+<!--
+  - Develop predictive ML models and perform statistical analysis and studies.
+-->
+- Jr. Data Scientist at [Sem Processo](https://www.semprocesso.com.br/) - **working**
+ 
+- Machine Learning Engineer | Data Scientist | Statistic at [Kunumi](https://www.kunumi.com/) - **working**
+
+
+</details>
+<details>
   <summary>:zap: Repositories and Projects</summary>
 
 **BIRTGD**: A new implementation &beta;<sup>3</sup>-IRT using gradient descent </br>
@@ -63,17 +86,8 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 
 - [BIRTGD](https://pypi.org/project/birt-gd/) is an implementation of &beta;<sup>3</sup> -IRT using gradient descent - **completed**
 
-- Data Scientist Intern at Apps de Bolso - **completed**
-<!--
-  - Updating Sofia, a Deep Learning based recommender system that assists Law Students to pass on the OAB examination (Brazilian Bar examination), the engine recommends questions to the users according to their performance on the application’s simulations.
--->
-- Data Scientist Intern at Sem Processo - **completed**
-<!--
-  - Develop predictive ML models and perform statistical analysis and studies.
--->
-- Jr. Data Scientist at Sem Processo - **working**
- 
 </details>
+
 <div align='center'>
 <div>
   <a href="https://github.com/Manuelfjr">
