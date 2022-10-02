@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # ⚡ About me
 
-I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 82% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
+I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 94% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
 <details>
   <summary>:zap: Jobs</summary>
