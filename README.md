@@ -34,7 +34,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   <summary>:zap: Jobs</summary>
   
   <details>
-  <summary>:zap: Data Scientist Intern at Apps de Bolso  **completed**</summary>
+  <summary>:zap: Data Scientist Intern at Apps de Bolso  <b>completed</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfGZBSpeY4OQ/company-logo_200_200/0/1569606088843?e=1672876800&v=beta&t=oIb3M0l--BHagxJc2AIGl1mTSrkZ_gcWr5VxMBauSlU" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | Updating Sofia, a Deep Learning based recommender <br> system that assists Law Students to pass on <br> the OAB examination (Brazilian Bar examination), <br> the engine recommends questions to the users <br> according to their performance on <br> the application’s simulations. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   </details>
 
 <details>
-  <summary>:zap: Data Scientist Intern at Sem Processo - **completed**</summary>
+  <summary>:zap: Data Scientist Intern at Sem Processo - <b>completed</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF2kkAhB6331A/company-logo_200_200/0/1650258122968?e=1672876800&v=beta&t=fY3GzKGuqqwnt1QRaojiSOcrBPrNFmAJY1LsJ4KnJGQ" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | Develop predictive ML models and perform statistical analysis and studies. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,9 +50,9 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   </details>
 
 <details>
-  <summary>:zap: Jr. Data Scientist at Sem Processo - **working**</summary>
+  <summary>:zap: Jr. Data Scientist at Sem Processo - <b>working</b></summary>
 
-| <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF2kkAhB6331A/company-logo_200_200/0/1650258122968?e=1672876800&v=beta&t=fY3GzKGuqqwnt1QRaojiSOcrBPrNFmAJY1LsJ4KnJGQ" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | :arrow: Development of models for probability of loss and risk based on survival analysis. <br>Development and implementation of regression/classification/NLP models. <br> Monitoring and enhancing the Spectter platform. <br>Creation of dashboards to monitor metrics. <br>Development of an updatable retro forecasting model. <br>Develop predictive ML models and perform statistical analysis and studies.<br> Skills: Python · Flask · Project management · Data Modeling · Dashboards · Predictive Modeling · Statistic Modeling · Mathematic Modeling |
+| <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF2kkAhB6331A/company-logo_200_200/0/1650258122968?e=1672876800&v=beta&t=fY3GzKGuqqwnt1QRaojiSOcrBPrNFmAJY1LsJ4KnJGQ" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | :fast_forward: Development of models for probability of <br> loss and risk based on survival analysis. <br> :fast_forward: Development and implementation of <br> regression/classification/NLP models. <br> :fast_forward: Monitoring and enhancing the Spectter platform. <br>:fast_forward: Creation of dashboards to monitor metrics. <br>:fast_forward: Development of an updatable <br> retro forecasting model. <br>:fast_forward: Develop predictive ML models <br> and perform statistical analysis <br> and studies.<br> :fast_forward: <b>Skills:<b><br> Python · Flask · Project management <br>Data Modeling · Dashboards · Predictive Modeling <br> Statistic Modeling · Mathematic Modeling |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
   </details>
