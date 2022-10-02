@@ -34,7 +34,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   <summary>:zap: Jobs</summary>
   
   <details>
-  <summary>:white_check_markp: Data Scientist Intern at <a href="https://web.oabdebolso.com/"><b>Apps de Bolso</b></a>  <b>completed</b></summary>
+  <summary>:white_check_mark: Data Scientist Intern at <a href="https://web.oabdebolso.com/"><b>Apps de Bolso</b></a>  <b>completed</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfGZBSpeY4OQ/company-logo_200_200/0/1569606088843?e=1672876800&v=beta&t=oIb3M0l--BHagxJc2AIGl1mTSrkZ_gcWr5VxMBauSlU" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | Updating Sofia, a Deep Learning based recommender <br> system that assists Law Students to pass on <br> the OAB examination (Brazilian Bar examination), <br> the engine recommends questions to the users <br> according to their performance on <br> the application’s simulations. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
