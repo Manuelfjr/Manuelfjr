@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # ⚡ About me
 
-I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 94% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
+I’m an undergraduate student in statistics at the Federal University of Paraiba (UFPB). I’m 99% statistic, I come from my second scientific initiation project, I have mastered the R, Python languages. Maybe I don’t know, but I’m going after that, slogan :), I like to program in my free time and learn new things, ah, it is worth mentioning that a coffee helps a lot.
 
 <details>
   <summary>:zap: Jobs</summary>
@@ -50,7 +50,7 @@ I’m an undergraduate student in statistics at the Federal University of Paraib
   </details>
 
 <details>
-  <summary>:white_circle: Jr. Data Scientist at <a href="https://www.semprocesso.com.br"><b>Sem Processo</b></a> - <b>working</b></summary>
+  <summary>:white_circle: Jr. Data Scientist at <a href="https://www.semprocesso.com.br"><b>Sem Processo</b></a> - <b>completed</b></summary>
 
 | <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF2kkAhB6331A/company-logo_200_200/0/1650258122968?e=1672876800&v=beta&t=fY3GzKGuqqwnt1QRaojiSOcrBPrNFmAJY1LsJ4KnJGQ" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> | :fast_forward: Development of models for probability of <br> loss and risk based on survival analysis. <br> :fast_forward: Development and implementation of <br> regression/classification/NLP models. <br> :fast_forward: Monitoring and enhancing the Spectter platform. <br>:fast_forward: Creation of dashboards to monitor metrics. <br>:fast_forward: Development of an updatable <br> retro forecasting model. <br>:fast_forward: Develop predictive ML models <br> and perform statistical analysis <br> and studies.<br> :fast_forward: <b>Skills:<b><br> Python · Flask · Project management <br>Data Modeling · Dashboards · Predictive Modeling <br> Statistic Modeling · Mathematic Modeling |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -102,11 +102,11 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 </details>
 
 <div align='center'>
-<div>
+<!-- <div>
   <a href="https://github.com/Manuelfjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuelfjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfjr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 
 <div>
   <a href="https://github.com/Manuelfjr">
@@ -131,11 +131,13 @@ Tutoring of the disciplines of the vital statistics and biostatistics discipline
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![Pandas](https://img.shields.io/badge/pandas-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Spark](https://img.shields.io/badge/spark-%23013243.svg?style=for-the-badge&logo=spark&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%23013243.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![tensor-flow](https://img.shields.io/badge/tensorflow-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
