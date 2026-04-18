@@ -83,7 +83,7 @@ I enjoy turning complex data problems into practical, scalable solutions, especi
 - Focused on applied estimation and research usability
 
 [![PyPI](https://img.shields.io/pypi/v/birt-gd?style=flat-square&color=darkgreen)](https://pypi.org/project/birt-gd/)
-[![Downloads](https://img.shields.io/pypi/dm/birt-gd?style=flat-square&color=darkgreen)](https://pypi.org/project/birt-gd/)
+[![Downloads](https://static.pepy.tech/badge/birt-gd)](https://pepy.tech/project/birt-gd)
 
 ### beta4-IRT
 **Research paper available on arXiv**
