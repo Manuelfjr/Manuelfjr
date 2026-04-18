@@ -42,6 +42,7 @@ I enjoy turning complex data problems into practical, scalable solutions, especi
 
 ### Kunumi
 **Machine Learning Engineer | Data Scientist | Statistician**
+**September 2022 - Present**
 
 - Developed machine learning and AI solutions for applied business problems
 - Built predictive models using Python and statistical methods
@@ -49,6 +50,7 @@ I enjoy turning complex data problems into practical, scalable solutions, especi
 
 ### Sem Processo
 **Junior Data Scientist**
+**May 2022 - November 2022**
 
 - Developed loss probability and risk models based on survival analysis
 - Built regression, classification, and NLP models
@@ -57,12 +59,14 @@ I enjoy turning complex data problems into practical, scalable solutions, especi
 
 ### Sem Processo
 **Data Scientist Intern**
+**October 2021 - May 2022**
 
 - Supported predictive modeling initiatives
 - Performed statistical studies and exploratory analyses for business applications
 
 ### Apps de Bolso
 **Data Scientist Intern**
+**September 2021 - March 2022**
 
 - Contributed to improvements in a deep learning recommendation engine for legal education
 - Helped build systems that recommended questions based on user performance in exam simulations
